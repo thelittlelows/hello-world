@@ -1,8 +1,6 @@
-# hello-world
+# Hello world
 
-# Project Title
-
-One Paragraph of project description goes here
+This is my first repository
 
 ## Getting Started
 
